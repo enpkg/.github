@@ -11,6 +11,6 @@ Data are processed in different independent modules (for molecular networking, s
 We recommend you start with [enpkg_full](https://github.com/enpkg/enpkg_full) for an overview of the whole process.
 
 If you use it, please cite the following:  
-[Gaudry A, Pagni M, Mehl F, Moretti S, Quiros-Guerrero L-M, Rutz A, et al. A Sample-Centric and Knowledge-Driven Computational Framework for Natural Products Drug Discovery. ChemRxiv. Cambridge: Cambridge Open Engage; 2023;  This content is a preprint and has not been peer-reviewed.](https://chemrxiv.org/engage/chemrxiv/article-details/649ea085ba3e99daef499a00) 
+[Gaudry, A., Pagni, M., Mehl, F., Moretti, S., Quiros-Guerrero, L.-M., Cappelletti, L., Rutz, A., Kaiser, M., Marcourt, L., Queiroz, E. F., Ioset, J.-R., Grondin, A., David, B., Wolfender, J.-L., & Allard, P.-M. (2024). A Sample-Centric and Knowledge-Driven Computational Framework for Natural Products Drug Discovery. In ACS Central Science. American Chemical Society (ACS). https://doi.org/10.1021/acscentsci.3c00800](https://doi.org/10.1021/acscentsci.3c00800) 
 
 ... and the different tools-specific papers (see the different repositories)!
